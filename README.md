@@ -4,7 +4,7 @@ AtliQ Mart is a retail giant with 50 supermarkets in the 10 cities of India. Dur
 
 Key Performance Indicators:
 
-a. Incremental Revenue (I.R): Difference in Revenue after promotions and before promotions                                    
+a. #Incremental Revenue (I.R): Difference in Revenue after promotions and before promotions                                    
 
 b. Incremental Sold Units: Difference in number of units sold after promotions and before promotions
 
